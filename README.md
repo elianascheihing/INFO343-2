@@ -24,6 +24,9 @@ ver [Programa](https://docs.google.com/document/d/1TVyOWAzl-jEb-yI0xrYNhid8pyVgc
 	- Deep Learning para textos
 	
 - **Unidad 4:** Problema III: Datos textuales de medios de prensa / Modelamiento de tópicos
+	- Modelo de tópicos Latent Dirichlet Allocation
+	- Inferencia utilizando Gibbs sampling
+	- Inferencia variacional
 - **Unidad 5:** Problema IV: Redes Neuronales Artificiales y Deep Learning
 
 ***
